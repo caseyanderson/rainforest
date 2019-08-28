@@ -7,11 +7,13 @@
 
 ## Materials
 * Raspberry Pi
-* MicroSD Card
+* MicroSD Card (class 10, 8GB or larger)
+* Power Supply
+* (Optional) USB Audio Adapter ([this](https://www.adafruit.com/product/1475) one is fine)
 
 
 ## General Procedure
 1. Build SC Standalone for Raspbian Lite (in two parts)
-    a. general installation instructions [here](https://github.com/redFrik/supercolliderStandaloneRPI2#installation)
-    b. lite installation instructions [here](https://github.com/redFrik/supercolliderStandaloneRPI2#stretch-lite)
+  1. general installation instructions [here](https://github.com/redFrik/supercolliderStandaloneRPI2#installation)
+  2. lite installation instructions [here](https://github.com/redFrik/supercolliderStandaloneRPI2#stretch-lite)
 2.
