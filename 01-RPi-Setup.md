@@ -28,7 +28,7 @@
     1. `cd supercolliderStandaloneRPI2`
     2. `xvfb-run --auto-servernum ./sclang -a -l ~/supercolliderStandaloneRPI2/sclang.yaml`
     3. (at the SC command prompt) `s.boot;`
-    4. (still at the SC command prompt) `{SinOsc.ar(300,0.0, 0.9)}.play;`
+    4. (still at the SC command prompt) `{SinOsc.ar(300, 0.0, 0.9)}.play;`
     5. (assuming you hear the sine tone) `s.quit;`
     6. **control-d** to exit SC
 7. Shutdown RPi: `sudo shutdown now`
