@@ -37,4 +37,8 @@
 
 ## Cloning Procedure
 
-Once one RPi is setup setting up more is as simple as backing up the functional `.img` to a CPU and duplicating it for the desired quantity of RPis
+Once one RPi is setup, commpletely, setting up more is as simple as **archiving** the functional `.img` to a CPU and **duplicating** it for the desired quantity of RPis.
+
+1. **archive the .img**: follow the instructions [here](https://gist.github.com/caseyanderson/31b615045332a6ab3f4028c696920f57#backup-img) to backup the configured `.img` file to a CPU
+2. **duplicate the .img**: follow the instructions [here](https://gist.github.com/caseyanderson/31b615045332a6ab3f4028c696920f57#restoringcloning-from-backup-img) to clone the archived `.img`
+3. repeat step 2. for the desired quantity of RPis
